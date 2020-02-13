@@ -372,7 +372,7 @@ another type of second-factor challenge.
 
 ![TempPIN.png](./images/image19.png)
 
-##How users obtain, activate and manage second-factor authenticators
+## How users obtain, activate and manage second-factor authenticators
 The organization that provides your second-factor authenticators has a website where you can request second-factor authenticators or, in the case of smart credentials, activate one that has already been created for you.
 
 1. Using a browser, access the Self-Service website. (If you are requesting a mobile soft token or activating a mobile smart credential, use the browser on your mobile device.) Your IT administrator can provide the URL.
